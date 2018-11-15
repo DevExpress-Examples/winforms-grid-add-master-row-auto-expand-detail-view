@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q205071/Form1.cs) (VB: [Form1.vb](./VB/Q205071/Form1.vb))
+* [Program.cs](./CS/Q205071/Program.cs) (VB: [Program.vb](./VB/Q205071/Program.vb))
+<!-- default file list end -->
 # How to automatically expand the detail view when new master row is added
 
 
