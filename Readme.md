@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Automatically expand the detail view when adding a master row
+# WinForms Data Grid - Automatically expand a new master row
 
 ![WinForms Data Grid - Automatically expand the detail view when adding a master row](https://raw.githubusercontent.com/DevExpress-Examples/how-to-automatically-expand-the-detail-view-when-new-master-row-is-added-e1436/13.1.4%2B/media/winforms-grid-master-detail-aad-row.gif)
 
